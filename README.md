@@ -54,7 +54,7 @@ Currently: AI Intern @ Max Healthcare · **Open to full-time AI/ML & SWE roles**
 ### Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananya%20Verma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-verma-a1b7a2267)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ananyavrm04-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ananyavrm04)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ananyaverma28-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/ananyaverma28/)
 [![Email](https://img.shields.io/badge/Email-ananyavrm04%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ananyavrm04@gmail.com)
 
 ---
